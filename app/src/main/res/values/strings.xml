@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ecosia Test App</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="need_all_permissions">You need to accept all permissions</string>
+    <string name="no_media_found">No media found on device</string>
+    <string name="something_went_wrong">Something went wrong please try again</string>
+</resources>
